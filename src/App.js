@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import useKeypress from 'react-use-keypress';
 import './App.css';
-import Game from './engine/game.js';
-import Board from './Board.js';
-import Message from './Message.js';
+import Game from './engine/Game.js';
+import Board from './components/Board.js';
+import Message from './components/Message.js';
 
 function App() {
 

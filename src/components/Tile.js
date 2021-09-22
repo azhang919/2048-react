@@ -1,4 +1,4 @@
-import "./App.css";
+import "../App.css";
 
 // Tile color codes
 const colors = {

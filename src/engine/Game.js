@@ -28,9 +28,10 @@ export default class Game {
   }
 
   resetBoard() {
-    this.state.board = Array(this.length).fill(0);
-    this.addRandomTile();
-    this.addRandomTile();
+    // this.state.board = Array(this.length).fill(0);
+    // this.addRandomTile();
+    // this.addRandomTile();
+    this.state.board = [0, 0, 0, 0, 0, 0, 2, 4, 0, 4, 16, 1024, 0, 8, 32, 1024];
   }
 
   addRandomTile() {

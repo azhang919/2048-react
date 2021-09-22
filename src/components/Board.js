@@ -1,4 +1,4 @@
-import Row from "../Row.js";
+import Row from "./Row.js";
 
 const Board = (props) => {
   return (
