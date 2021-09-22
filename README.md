@@ -6,9 +6,9 @@ Owner: Alison Zhang\
 Credit: Gabriele Cirulli, the original creator of '2048'
 
 <div>
-    <img src="images\sc1.png" alt="2048 start screen" width="250px">
-    <img src="images\sc2.png" alt="2048 losing screen" width="250px">
-    <img src="images\sc3.png" alt="2048 winning screen" width="250px">
+    <img src="images\start.png" alt="2048 start screen" width="250px">
+    <img src="images\lose.png" alt="2048 losing screen" width="250px">
+    <img src="images\win.png" alt="2048 winning screen" width="250px">
 <div>
 
 ## What is 2048?
