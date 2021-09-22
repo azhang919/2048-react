@@ -5,7 +5,7 @@ Last update: Sep 22, 2021\
 Owner: Alison Zhang\
 Credit: Gabriele Cirulli, the original creator of '2048'
 
-![2048 starting screen](images\sc1.png)
+![2048 starting screen](images\sc3.png)
 
 ## What is 2048?
 
