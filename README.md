@@ -5,7 +5,7 @@ Last update: Sep 22, 2021\
 Owner: Alison Zhang\
 Credit: Gabriele Cirulli, the original creator of '2048'
 
-![2048 starting screen](images\sc3.png)
+<img src="images\sc1.png" alt="2048 winning screen">
 
 ## What is 2048?
 
